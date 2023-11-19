@@ -1,12 +1,22 @@
 # Hangman
 
+# Description
+The hangman game was created from scratch using python and OPP.
+
 # Table of Contents
-1. Description
-2. Installation 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#Contributions)
+- [License](#license)
 
+# Installation 
+Run the terminal and follow the instructions.
 
-A description of the project: what it does, the aim of the project, and what you learned
-Installation instructions
-Usage instructions
-File structure of the project
-License information
+# Usage
+To effectively use this project users can play the Hangman game using the command line.
+
+# Contributions
+How to Contribute: Users can contribute to the project by following the general practice on collaborative projects.
+
+# License
+N/A
